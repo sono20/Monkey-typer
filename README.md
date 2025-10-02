@@ -13,3 +13,5 @@
 
 ## Autor
 sono20
+
+Projekt realizowany w ramach przedmiotu PJC na drugim semestrze na Polsko Japońskiej Akademii Technik Komputerowych
