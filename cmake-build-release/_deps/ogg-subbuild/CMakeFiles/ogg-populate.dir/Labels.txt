@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule

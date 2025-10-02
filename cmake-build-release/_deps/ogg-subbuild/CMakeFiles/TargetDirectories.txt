@@ -1,0 +1,3 @@
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/CMakeFiles/ogg-populate.dir
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/CMakeFiles/edit_cache.dir
+/Users/sono20/CLionProjects/Projekcik/cmake-build-release/_deps/ogg-subbuild/CMakeFiles/rebuild_cache.dir
